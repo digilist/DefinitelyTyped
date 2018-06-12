@@ -33,7 +33,7 @@ declare namespace OwlCarousel {
         dotsEach?: number | boolean;
         dotData?: boolean;
         lazyLoad?: boolean;
-        lazyContent?: boolean;
+        lazyLoadEager?: number;
         autoplay?: boolean;
         autoplayTimeout?: number;
         autoplayHoverPause?: boolean;
